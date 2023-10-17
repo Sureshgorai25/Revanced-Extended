@@ -1,4 +1,4 @@
-YouTube-Extended: 18.40.33  
+YouTube-Extended: 18.40.34  
 Twitter: 10.11.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
@@ -7,6 +7,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.0.3-all.jar  
-Integrations: inotia00/revanced-integrations-0.119.12.apk  
-Patches: inotia00/revanced-patches-2.193.12.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.12)  
+Integrations: inotia00/revanced-integrations-0.119.15.apk  
+Patches: inotia00/revanced-patches-2.193.15.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.15)  
